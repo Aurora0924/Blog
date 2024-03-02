@@ -10,8 +10,8 @@ spring:
 
   datasource:
     url: jdbc:mysql://localhost:3306/blog?characterEncoding=utf8&serverTimezone=Asia/Shanghai
-    username: 21wlw
-    password: 21wlw123
+    username: xxxx
+    password: xxxx
     driver-class-name: com.mysql.cj.jdbc.Driver
   servlet:
     multipart:
@@ -28,6 +28,7 @@ mybatis-plus:
       id-type: auto
 
 oss:
-  accessKey: Oa6F-tvzxn0MwR6SgCUJwIEv02AhJzFlxxmYn_1P
-  secretKey: lUEbnGVTTUWs92SY_UF6ewxuc1kCOkRnEY2x_ga2
-  bucket: even-blog
+  accessKey: xxxxxxxx
+  secretKey: xxxxxxxx
+  bucket: xxxxxx
+  
